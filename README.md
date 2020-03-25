@@ -10,6 +10,7 @@ Actualmente hay 2 fuentes de datos diferentes disponibles para recuperar los dat
 jhu - https://github.com/CSSEGISandData/COVID-19 - Repositorio mundial de datos operado por el Centro de Ciencias e Ingeniería de Sistemas de la Universidad Johns Hopkins (JHU CSSE).
 csbs : https://www.csbs.org/information-covid-19-coronavirus : datos del condado de EE. UU. que provienen de la Conferencia de supervisores de bancos estatales.
 La fuente de datos jhu se usará como fuente predeterminada si no especifica un parámetro fuente en su solicitud.
+
 # Sitio y referencias de mas informacion acerca de la API:
 https://github.com/ExpDev07/coronavirus-tracker-api#available-data-sources
 
