@@ -14,4 +14,4 @@ La fuente de datos jhu se usará como fuente predeterminada si no especifica un 
 https://github.com/ExpDev07/coronavirus-tracker-api#available-data-sources
 # Autor
 jmXoft - juan Manuel Cichello
-
+# Imagenes
