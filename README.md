@@ -12,7 +12,7 @@ csbs : https://www.csbs.org/information-covid-19-coronavirus : datos del condado
 La fuente de datos jhu se usará como fuente predeterminada si no especifica un parámetro fuente en su solicitud.
 # Sitio y referencias de mas informacion acerca de la API:
 https://github.com/ExpDev07/coronavirus-tracker-api#available-data-sources
-
+https://github.com/juan27k/j27k2020/blob/master/lcd1.jpeg
 # Autor
 jmXoft - juan Manuel Cichello
 
