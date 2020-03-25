@@ -15,3 +15,5 @@ https://github.com/ExpDev07/coronavirus-tracker-api#available-data-sources
 # Autor
 jmXoft - juan Manuel Cichello
 # Imagenes
+![lcd2](https://user-images.githubusercontent.com/16866881/77587963-af7d6780-6ec7-11ea-8f43-cbb25ca9df1c.jpeg)
+![lcd1](https://user-images.githubusercontent.com/16866881/77588029-cc199f80-6ec7-11ea-9456-7ed8eeee7dd5.jpeg)
